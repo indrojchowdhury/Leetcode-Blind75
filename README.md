@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/indrojchowdhury/Leetcode-Blind75/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0217-contains-duplicate](https://github.com/indrojchowdhury/Leetcode-Blind75/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/indrojchowdhury/Leetcode-Blind75/tree/master/0238-product-of-array-except-self) |
+| [0268-missing-number](https://github.com/indrojchowdhury/Leetcode-Blind75/tree/master/0268-missing-number) |
 ## Hash Table
 |  |
 | ------- |
@@ -17,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/indrojchowdhury/Leetcode-Blind75/tree/master/0141-linked-list-cycle) |
 | [0217-contains-duplicate](https://github.com/indrojchowdhury/Leetcode-Blind75/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/indrojchowdhury/Leetcode-Blind75/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/indrojchowdhury/Leetcode-Blind75/tree/master/0268-missing-number) |
 ## String
 |  |
 | ------- |
@@ -53,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0217-contains-duplicate](https://github.com/indrojchowdhury/Leetcode-Blind75/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/indrojchowdhury/Leetcode-Blind75/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/indrojchowdhury/Leetcode-Blind75/tree/master/0268-missing-number) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -90,4 +93,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0100-same-tree](https://github.com/indrojchowdhury/Leetcode-Blind75/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/indrojchowdhury/Leetcode-Blind75/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0226-invert-binary-tree](https://github.com/indrojchowdhury/Leetcode-Blind75/tree/master/0226-invert-binary-tree) |
+## Math
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/indrojchowdhury/Leetcode-Blind75/tree/master/0268-missing-number) |
+## Binary Search
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/indrojchowdhury/Leetcode-Blind75/tree/master/0268-missing-number) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/indrojchowdhury/Leetcode-Blind75/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
